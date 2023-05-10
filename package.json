@@ -1,0 +1,23 @@
+{
+  "name": "age-calculator-app",
+  "version": "1.0.0",
+  "description": "![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sezginbozdemir/age-calculator-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sezginbozdemir/age-calculator-app/issues"
+  },
+  "homepage": "https://github.com/sezginbozdemir/age-calculator-app#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
